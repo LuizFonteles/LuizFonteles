@@ -20,6 +20,6 @@ I am a Data Scientist and Engineer bridging the gap between computational physic
 * **Research Intern @ Télécom Paris:** Developed reinforcement learning environments for combinatorial optimization and hardware-aware Neural Architecture Search (NAS).
 
 ## ⚡ Outside of Tech
-When I am not training models or debugging code, you will likely find me bouldering (currently projecting V4-V5s and 6c+ outdoors) or working on technical garment sewing and denim construction. 
+When I am not training models or debugging code, you will likely find me bouldering or working on my personal sewing projects. 
 
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/luiz-fonteles) | fontelesluizh@gmail.com
